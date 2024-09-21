@@ -27,10 +27,7 @@ Ou bien, vous pouvez utiliser un émulateur ou un appareil physique pour lancer 
 
 ## Résultat
 
-Voici le résultat obtenu:
-
-<img src="resultat.gif" width="300" height="600">
-
+Vous pouvez observer le résultat en allant sur ce [lien](https://flutter-signup.dazucrisx.dev/).
 Concernant les appareils utilisées pour le test, il s'agit d'un Samsung A14 et un Tecno K65k.
 
 ## Autres
