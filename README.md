@@ -29,7 +29,7 @@ Ou bien, vous pouvez utiliser un émulateur ou un appareil physique pour lancer 
 
 Voici le résultat obtenu:
 
-![Résultat](resultat.gif)
+<img src="resultat.gif" width="300" height="600">
 
 Concernant les appareils utilisées pour le test, il s'agit d'un Samsung A14 et un Tecno K65k.
 
